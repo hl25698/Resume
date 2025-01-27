@@ -117,6 +117,9 @@ ul {
     box-shadow: 1px 2px 4px;
     border-radius: 5px;
     margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 }
 
 dl {
@@ -129,9 +132,13 @@ dl {
     padding-left: 10px;
 }
 dl dt{
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 dl dd{
     font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /* Project Section */

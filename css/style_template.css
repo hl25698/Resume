@@ -71,6 +71,11 @@ footer a:hover {
     height: auto;
 }
 
+.project-link:hover {
+    color: #366290;
+    text-decoration: none;
+}
+
 .splash img:hover {
     transform: scale(1.1);
 }
